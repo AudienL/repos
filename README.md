@@ -21,7 +21,7 @@ compile 'xxx:xxx:xxx'
 ### SuperLibrary
 
 ```
-compile 'com.audienl:super_library:1.1.0'
+compile 'com.audienl:super_library:1.1.1'
 ```
 
 [源代码：https://github.com/AudienL/SuperLibrary](https://github.com/AudienL/SuperLibrary)
