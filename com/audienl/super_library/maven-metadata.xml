@@ -3,7 +3,7 @@
   <groupId>com.audienl</groupId>
   <artifactId>super_library</artifactId>
   <versioning>
-    <release>1.1.5</release>
+    <release>1.1.6</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -21,7 +21,8 @@
       <version>1.1.3</version>
       <version>1.1.4</version>
       <version>1.1.5</version>
+      <version>1.1.6</version>
     </versions>
-    <lastUpdated>20180112025744</lastUpdated>
+    <lastUpdated>20180112063737</lastUpdated>
   </versioning>
 </metadata>
