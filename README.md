@@ -8,3 +8,7 @@
 ### SuperLibrary
 
 [源代码：https://github.com/AudienL/SuperLibrary](https://github.com/AudienL/SuperLibrary)
+
+### SuperRecyclerViewAdapter
+
+[源代码：https://github.com/audientlin/SuperRecyclerViewAdapter](https://github.com/audientlin/SuperRecyclerViewAdapter)
