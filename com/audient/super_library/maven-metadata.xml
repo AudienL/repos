@@ -3,7 +3,7 @@
   <groupId>com.audient</groupId>
   <artifactId>super_library</artifactId>
   <versioning>
-    <release>1.3.5</release>
+    <release>1.3.6</release>
     <versions>
       <version>1.2.6</version>
       <version>1.2.7</version>
@@ -15,7 +15,8 @@
       <version>1.3.3</version>
       <version>1.3.4</version>
       <version>1.3.5</version>
+      <version>1.3.6</version>
     </versions>
-    <lastUpdated>20180504012327</lastUpdated>
+    <lastUpdated>20180504020347</lastUpdated>
   </versioning>
 </metadata>
