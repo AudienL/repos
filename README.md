@@ -9,6 +9,12 @@
 
 [源代码：https://github.com/AudienL/SuperLibrary](https://github.com/AudienL/SuperLibrary)
 
+
 ### SuperRecyclerViewAdapter
 
 [源代码：https://github.com/audientlin/SuperRecyclerViewAdapter](https://github.com/audientlin/SuperRecyclerViewAdapter)
+
+
+### PermissionHelper
+
+[源代码：https://github.com/audientlin/PermissionHelper](https://github.com/audientlin/PermissionHelper)
